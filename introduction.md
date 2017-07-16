@@ -2,4 +2,4 @@
 *Javascript
 *Java
 *PHP
-*NodeJS
+*Killing history using git rebase
