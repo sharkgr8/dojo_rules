@@ -1,2 +1,5 @@
-My Introduction
-My favourite Codeschool channels are Javascript and PHP
+*GIT
+*Javascript
+*Java
+*PHP
+*Killing history using git rebase
